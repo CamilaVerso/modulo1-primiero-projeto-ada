@@ -27,12 +27,5 @@ Grupo 3 - Turma 1095
 Marcelo Santana
 
 
-##
 
-### Para a segunda parte deste projeto que será realizada individualmente, se faz necessário seguir estas orientações:
-
-- Catálogo igual ao do trabalho principal 01, porém responsivo;
-- Criar um formulário de registro para o catálogo digital;
-- Navegação precisa funcionar (da página principal para outras páginas, e na página principal em si);
-- O site deve estar otimizado para SEO e acessibilidade.
 
